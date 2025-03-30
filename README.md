@@ -10,11 +10,9 @@ This repository contains 450 hands-on questions covering pandas, NumPy, and SQL,
 3 . SQL – Querying, joins, subqueries, window functions, and advanced data retrieval techniques.
 
 ---
-## Author: Avi Chawla
+## Original Author: Avi Chawla
 
 LinkedIn: https://www.linkedin.com/in/avi-chawla/
-
-Read my blogs here: https://medium.com/@avi_chawla
 
 ---
 Introduction
