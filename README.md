@@ -1,5 +1,5 @@
 # Data-Analysis-Questions-Pandas-NumPy-SQL
-** This repository contains my solutions to questions originally created by the respective author. **
+**This repository contains my solutions to questions originally created by the respective author.**
 # Description:
 This repository contains 450 hands-on questions covering pandas, NumPy, and SQL, aimed at strengthening data analysis skills. These questions include:
 
