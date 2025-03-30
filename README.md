@@ -41,6 +41,6 @@ The whole exercise has been divided into nine separate notebooks. Below are the 
 
 - **SQL**
 
-1. SQL Notebook 1: [Link](https://deepnote.com/workspace/avi-chawla-695b-aee6f4ef-2d50-4fb6-9ef2-20ee1022995a/project/SQL-Notebook-1-eac9d782-a9b1-4e84-a1f9-af14080a6121/notebook/notebook-697f04297c664d02901db0f85431512e)  **(This Notebook)**
+1. SQL Notebook 1: [Link](https://deepnote.com/workspace/avi-chawla-695b-aee6f4ef-2d50-4fb6-9ef2-20ee1022995a/project/SQL-Notebook-1-eac9d782-a9b1-4e84-a1f9-af14080a6121/notebook/notebook-697f04297c664d02901db0f85431512e) 
 
 2. SQL Notebook 2: [Link](https://deepnote.com/workspace/avi-chawla-695b-aee6f4ef-2d50-4fb6-9ef2-20ee1022995a/project/SQL-Notebook-2-1914b214-be03-44a1-be63-ad99e98be639/notebook/notebook-e549236b988c42a5b53126a7ebb98127)
