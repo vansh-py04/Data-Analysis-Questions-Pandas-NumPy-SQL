@@ -7,7 +7,7 @@ This repository contains 450 hands-on questions covering pandas, NumPy, and SQL,
 
 2. Pandas – Data wrangling, transformations, aggregations, and performance optimizations.
 
-3 . SQL – Querying, joins, subqueries, window functions, and advanced data retrieval techniques.
+3. SQL – Querying, joins, subqueries, window functions, and advanced data retrieval techniques.
 
 ---
 ## Original Author: Avi Chawla
